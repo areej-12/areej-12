@@ -13,16 +13,17 @@
 class Areej {
     string name     = "Areej Arif Khan";
     string role     = "Undergrad @ Software Engineering";
-    string mood     = "chronically online & caffeinated ☕";
+    string school     = "Ghulam Ishaq Khan Institute of Engineerng and Technology";
     string pronouns = "she/her";
 
     vector<string> currentlyLearning = {
         "Data Structures & Algorithms",
         "Python",
-        "C++"
+        "C++",
+"DBMS"
     };
 
-    string funFact = "i debug with printfs and i'm not ashamed 🐛";
+    string funFact = "i actually love software development and problem solving. ";
 };
 ```
 
@@ -67,7 +68,6 @@ class Areej {
 ### 🎲 random facts about me
 
 - 🎓 studying software engineering, one bug at a time
-- 🌙 night owl who tells herself "just one more commit" at 2am
 - 📚 always in the middle of learning something new
 - 💬 ask me about C++, Python, or how to survive university
 
