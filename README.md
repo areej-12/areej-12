@@ -1,90 +1,71 @@
 <div align="center">
 
-<!-- Animated header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=hey+there%2C+i'm+areej+%F0%9F%94%AA;software+engineering+student;building+cool+stuff+%26+breaking+things;currently+learning+%E2%80%A2+always+curious" alt="Typing SVG" />
+# Areej Arif Khan
+
+**Software Engineering Student**
+
+[![GitHub](https://img.shields.io/badge/GitHub-areej--12-181717?style=flat-square&logo=github)](https://github.com/areej-12)
+![Pronouns](https://img.shields.io/badge/Pronouns-she%2Fher-blueviolet?style=flat-square)
 
 </div>
 
 ---
 
-### 🧍‍♀️ who am i?
+## About Me
 
-```cpp
-class Areej {
-    string name     = "Areej Arif Khan";
-    string role     = "Undergrad @ Software Engineering";
-    string school     = "Ghulam Ishaq Khan Institute of Engineerng and Technology";
-    string pronouns = "she/her";
+I am an undergraduate student pursuing a degree in Software Engineering. I am passionate about building practical software solutions and continuously expanding my technical skill set. Currently focused on strengthening my foundations in data structures, algorithms, and object-oriented programming.
 
-    vector<string> currentlyLearning = {
-        "Data Structures & Algorithms",
-        "Python",
-        "C++",
-"DBMS"
-    };
-
-    string funFact = "i actually love software development and problem solving. ";
-};
-```
+- 🎓 Undergraduate — Software Engineering
+- 💡 Interests: Problem Solving, Software Development, Python, C++
+- 📖 Currently Learning: Data Structures & Algorithms, OOP, Python
 
 ---
 
-### 🛠️ tech i speak
+## Technical Skills
 
-<div align="center">
+**Languages**
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Tools & Platforms**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
-
 ---
 
-### 📌 featured projects
+## Featured Projects
 
-| 🚀 Project | 💡 What it does | 🔧 Built with |
+| Project | Description | Technologies |
 |---|---|---|
-| [**CODEX_hackathon**](https://github.com/areej-12/CODEX_hackathon) | Hackathon project — built under pressure & chaos ⚡ | TBA |
-| [**CS112_PROJECT_SEM2_WIK**](https://github.com/areej-12/CS112_PROJECT_SEM2_WIK) | Semester project for CS112 | C++ |
-| [**ES_Python_Project**](https://github.com/areej-12/ES_Python_Project) | Python project from ES course | Python |
-| [**SEMESTER-PROJECT**](https://github.com/areej-12/SEMESTER-PROJECT) | Another semester banger 💪 | TBA |
+| [CODEX_hackathon](https://github.com/areej-12/CODEX_hackathon) | A project developed during a hackathon competition | — |
+| [CS112_PROJECT_SEM2_WIK](https://github.com/areej-12/CS112_PROJECT_SEM2_WIK) | Semester project completed as part of the CS112 course | C++ |
+| [ES_Python_Project](https://github.com/areej-12/ES_Python_Project) | Python-based project developed for the Engineering Sciences course | Python |
+| [SEMESTER-PROJECT](https://github.com/areej-12/SEMESTER-PROJECT) | End-of-semester academic project | — |
 
 ---
 
-### 📊 github stats
+## GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=areej-12&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=ffffff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areej-12&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=ffffff" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=areej-12&show_icons=true&theme=default&hide_border=true&title_color=333&icon_color=555&text_color=333" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areej-12&layout=compact&theme=default&hide_border=true&title_color=333&text_color=333" height="165" />
 
 </div>
 
 ---
 
-### 🎲 random facts about me
+## Contact
 
-- 🎓 studying software engineering, one bug at a time
-- 📚 always in the middle of learning something new
-- 💬 ask me about C++, Python, or how to survive university
+Feel free to explore my repositories or reach out via GitHub.
 
----
-
-### 📬 reach me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/@areej--12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/areej-12)
-
-</div>
+[![GitHub Profile](https://img.shields.io/badge/View%20Profile-areej--12-181717?style=for-the-badge&logo=github)](https://github.com/areej-12)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=areej-12&color=FF6B9D&style=flat-square&label=profile+views" />
-  
-  *"it works on my machine" — me, always* 🤷‍♀️
+  <img src="https://komarev.com/ghpvc/?username=areej-12&color=555&style=flat-square&label=Profile+Views" />
 </div>
