@@ -1,87 +1,90 @@
-<div align="center">
+<h1 align="center">Hi there, I'm Areej 👋✨</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Areej+Arif+Khan;Software+Engineering+Student;Passionate+about+building+things;Always+learning+%E2%80%A2+Always+growing" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A8B8&center=true&vCenter=true&width=500&lines=Software+Engineering+Student+%40+GIKI;AI%2FML+Enthusiast+%F0%9F%A4%96;Building+weird+little+projects+for+fun;GET+IT+DONE." alt="Typing SVG" />
+</p>
 
-</div>
-
----
-
-### 👩‍💻 About Me
-
-```cpp
-class Areej {
-    string name     = "Areej Arif Khan";
-    string role     = "Undergraduate Student @ Software Engineering";
-    string pronouns = "she/her";
-
-    vector<string> currentlyLearning = {
-        "Data Structures & Algorithms",
-        "Object-Oriented Programming",
-        "Python",
-        "C++"
-    };
-
-    string goal = "Build meaningful software & grow as a developer";
-};
-```
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="coding gif">
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🧠 About Me
 
-<div align="center">
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
+- 🎓 Studying **Software Engineering** at **GIKI** (Class of 2028)
+- 🤖 Currently exploring **AI, Machine Learning & Data Analysis**
+- 💼 Worked as an **AI Intern @ Developers Hub** — built a health & safety chatbot
+- 🛠️ I like building things in **C++ and Python**, from console games to dashboards
+- 🌱 Active in **GDGOC, ACM, Microsoft Club & AIESEC** — basically everywhere there's a club
+- 💬 My favorite quote: **"GET IT DONE."** *(it's basically my personality)*
 
 ---
 
-### 📌 Featured Projects
+### 🚀 Projects I'm Proud Of
 
-| 🚀 Project | 💡 Description | 🔧 Tech |
-|---|---|---|
-| [**CODEX_hackathon**](https://github.com/areej-12/CODEX_hackathon) | Project developed during a hackathon | TBA |
-| [**CS112_PROJECT_SEM2_WIK**](https://github.com/areej-12/CS112_PROJECT_SEM2_WIK) | Semester project for CS112 | C++ |
-| [**ES_Python_Project**](https://github.com/areej-12/ES_Python_Project) | Python project for Engineering Sciences course | Python |
-| [**SEMESTER-PROJECT**](https://github.com/areej-12/SEMESTER-PROJECT) | Course semester project | TBA |
+| Project | What it does |
+|---|---|
+| 🧩 **Campus Life Manager** | C++ console app to manage student budgeting, academics & wellness |
+| 🕵️ **Intru-Watch** | Streamlit-based intrusion monitoring system using DSA concepts |
+| 🧞 **Studi-Genie AI** | Web app that helps students ask smarter questions |
+| 🔪 **Who Is the Killer?** | A C++ console mystery game with branching logic |
+| 🎬 **Movie Ticket System** | Location & time-based ticket booking app |
+| 🤖 **Line-Follower Robot** | Autonomous IR-based path-following robot (Arduino) |
+| 💡 **Smart Light System** | Energy-efficient lighting automation (Digital Logic Design) |
+| 🌱 **Plant Growth & Harvest Monitor** | Dashboard for agricultural efficiency (GDGOC) |
+| 🏛️ **ORIC Portal GIKI** | Centralized web portal for research & innovation collaboration |
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=areej-12&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=areej-12&theme=radical&hide_border=true" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=areej-12&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&icon_color=FF6B9D&text_color=ffffff" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areej-12&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=FF6B9D&text_color=ffffff" height="165" />
-
-</div>
-
----
-
-### 💡 A Little More About Me
-
-- 🎓 Pursuing a degree in Software Engineering
-- 🌱 Continuously learning and exploring new technologies
-- 🤝 Open to collaborating on beginner-friendly open source projects
-- 💬 Happy to chat about C++, Python, or university life
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areej-12&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ---
 
-### 📬 Connect With Me
+### 🌐 Let's Connect
 
-<div align="center">
+<p align="center">
+  <a href="https://www.linkedin.com/in/areej-arif-khan-2b4097334" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:areejarif1302@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/areej-12" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/@areej--12-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/areej-12)
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" alt="thanks for visiting gif">
+</p>
 
-</div>
+<h3 align="center">"GET IT DONE." 🚀</h3>
 
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=areej-12&color=FF6B9D&style=flat-square&label=Profile+Views" />
-</div>
+<p align="center"><i>Thanks for stopping by — now go build something cool. 👩‍💻</i></p>
