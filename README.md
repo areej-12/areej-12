@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A8B8&center=true&vCenter=true&width=500&lines=Software+Engineering+Student+%40+GIKI;AI%2FML+Enthusiast+%F0%9F%A4%96;Building+weird+little+projects+for+fun;GET+IT+DONE." alt="Typing SVG" />
 </p>
-<img width="736" height="736" alt="image" src="https://github.com/user-attachments/assets/21b7519b-b5ec-416a-b1a8-578abe4d7533" />
 
 
 ###  GitHub Stats
@@ -16,6 +15,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=areej-12&layout=compact&theme=radical&hide_border=true" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" alt="thanks for visiting gif">
+</p>
+
+<h3 align="center">"GET IT DONE." </h3>
 
 ---
 
@@ -33,10 +37,5 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="280" alt="thanks for visiting gif">
-</p>
-
-<h3 align="center">"GET IT DONE." </h3>
 
 <p align="center"><i>Thanks for stopping by — now go build something cool. </i></p>
