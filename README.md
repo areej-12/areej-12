@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Areej 👋✨</h1>
+<h1 align="center">Hi there, I'm Areej.</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7A8B8&center=true&vCenter=true&width=500&lines=Software+Engineering+Student+%40+GIKI;AI%2FML+Enthusiast+%F0%9F%A4%96;Building+weird+little+projects+for+fun;GET+IT+DONE." alt="Typing SVG" />
